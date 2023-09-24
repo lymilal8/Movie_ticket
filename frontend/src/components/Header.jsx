@@ -41,7 +41,7 @@ const Header = () => {
                 </li>}
                 
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Movies</a>
+                  <a class="nav-link" href="/movies">Movies</a>
                 </li>
               
               </ul>
